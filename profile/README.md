@@ -1,4 +1,4 @@
-# Hi, welcome to ESA EarthCODE Hackathon!
+# Hi, welcome to the ESA EarthCODE Hackathon 2026!
 
 The [**EarthCODE Hackathon**](https://esa-earthcode.github.io/2026-earthcode-hackathon/) will take place from 30 November -- 4 December 2026 at [ESA ESRIN](https://www.esa.int/establishment/about-us/meet-us/visit-esa/esa-esrin), in Frascati, Italy.
 The event will provide an opportunity to bring the communities who are using [EarthCODE](https://earthcode.esa.int/) tools and services as close as possible to the people who are building them.
